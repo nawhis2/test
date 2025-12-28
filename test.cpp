@@ -6,4 +6,6 @@ int main(void){
 	cout << "sihwan test";
 	cout << "test2_hyeonji";
 	cout << "test2_sihwan";
+	
+	cout << "merong";
 }
