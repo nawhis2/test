@@ -5,4 +5,5 @@ int main(void){
 	cout << "hyeonji test";
 	cout << "sihwan test";
 	cout << "test2_hyeonji";
+	cout << "test2_sihwan";
 }
