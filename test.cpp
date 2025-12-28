@@ -6,6 +6,10 @@ int main(void){
 	cout << "sihwan test";
 	cout << "test2_hyeonji";
 	cout << "test2_sihwan";
+<<<<<<< Updated upstream
 	
 	cout << "merong";
+=======
+	cout << "hahahahah";
+>>>>>>> Stashed changes
 }
