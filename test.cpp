@@ -9,4 +9,5 @@ int main(void){
 	
 	cout << "merong";
 	cout << "rebase test";
+	cout << "Hello hJ";
 }
